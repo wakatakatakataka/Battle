@@ -15,8 +15,8 @@ Battle〜３つの異なる属性のタイプ相性〜
 
 小さな子供さんでも気軽に遊ぶことができるアプリを目指しました。
 
-参考サイト：Game8 ポケモン剣盾（ソードシールド） タイプ相性表と弱点一覧｜検索機能付き【ソードシールド】 [https://game8.jp/pokemon-sword-shield/298091]
-
 ![Animated GIF-downsized](https://user-images.githubusercontent.com/80372817/116233922-decf6980-a796-11eb-83d5-9d48fc1e8cd4.gif)
 
 ![Animated GIF-downsized (1)](https://user-images.githubusercontent.com/80372817/116234709-e7746f80-a797-11eb-9a4b-267981b8f451.gif)
+
+参考サイト：Game8 ポケモン剣盾（ソードシールド） タイプ相性表と弱点一覧｜検索機能付き【ソードシールド】 [https://game8.jp/pokemon-sword-shield/298091]

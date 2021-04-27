@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Battle</string>
+    <string name="battle_text">さぁ・・・攻撃だ！！</string>
+    <string name="back_text">戻る</string>
+    <string name="result_win">効果は抜群だ！！</string>
+    <string name="result_lose">効果はいまひとつだ・・・・・</string>
+</resources>

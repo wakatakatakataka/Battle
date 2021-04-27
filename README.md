@@ -19,9 +19,11 @@ Battle.Stadium〜火・水・草〜
 
 水の属性を選んだ場合、このようにランダムに相性が表示されます。
 
+
 ![Animated GIF-downsized (1)](https://user-images.githubusercontent.com/80372817/116234709-e7746f80-a797-11eb-9a4b-267981b8f451.gif)
 
 火の属性を選んだ場合、このように表示されます。
+
 
 ![Animated GIF-downsized (2)](https://user-images.githubusercontent.com/80372817/116237143-d24d1000-a79a-11eb-8093-313f63889fa0.gif)
 

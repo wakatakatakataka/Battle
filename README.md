@@ -30,4 +30,6 @@ Battle.Stadium〜火・水・草〜
 草の属性を表示した場合、このように表示されます。
 
 
+参考図書：SB Creative　発行　　金田　浩明　著　はじめてのAndroidプログラミング　第5版
+
 参考サイト：Game8 ポケモン剣盾（ソードシールド） タイプ相性表と弱点一覧｜検索機能付き【ソードシールド】 [https://game8.jp/pokemon-sword-shield/298091]

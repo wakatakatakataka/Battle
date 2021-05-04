@@ -54,6 +54,7 @@ Battle.Stadium〜火・水・草〜
 
 火の場合も同様に効果がいまひとつになります
 
+
 参考図書：SB Creative　発行　　金田　浩明　著　はじめてのAndroidプログラミング　第5版
 
 参考サイト：Game8 ポケモン剣盾（ソードシールド） タイプ相性表と弱点一覧｜検索機能付き【ソードシールド】 [https://game8.jp/pokemon-sword-shield/298091]

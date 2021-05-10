@@ -3,6 +3,8 @@ Battle.Stadium〜火・水・草〜
 
 ＊ コード等の管理は、Android Studioで行っております。
 
+  Android Studioで管理していたコードを手動でこちらに反映しているため、first commmitになっております。
+
 # 概要
 ミニゲームアプリを作成しました。
 

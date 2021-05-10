@@ -26,7 +26,6 @@ Battle.Stadium〜火・水・草〜
 ![Animated GIF-downsized](https://user-images.githubusercontent.com/80372817/116233922-decf6980-a796-11eb-83d5-9d48fc1e8cd4.gif)
 
 水の属性を選んだ場合、上記のようにランダムに相性が表示されます。
-
 対象が、火の場合、効果抜群になります。
 
 水の場合、効果がいまひとつになります。

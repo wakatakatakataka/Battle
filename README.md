@@ -82,4 +82,4 @@ Andoroid Studio 4.1
 
 ・属性を増やした際の条件分岐や確率をどう表現するのかが課題
 
-・現在、Google Playにてアプリの申請中です
+・現在、Google Playにてアプリの申請中
